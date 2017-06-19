@@ -1,0 +1,21 @@
+<root>
+	<domestic>
+		<data>
+			<travelType>domastic</travelType>
+			<tripType>Round trip</tripType>
+			<origin>Bombay</origin>
+			<destination>Calcutta</destination>
+			<departureDate>22 June 2017</departureDate>
+			<returnDate>25 June 2017</returnDate>
+			<adults>1</adults>
+			<children>0</children>
+			<infants>0</infants>
+			<travelClass>Economy</travelClass>
+			<airlinePreference>All Airlines</airlinePreference>
+			<adultsInter>4</adultsInter>
+			<childrenInter>4</childrenInter>
+			<infantsInter>2</infantsInter>
+			<travelClassInter>Business</travelClassInter>
+		</data>
+	</domestic>
+</root>

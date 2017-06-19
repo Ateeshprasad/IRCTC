@@ -1,0 +1,34 @@
+main.btn.type.travel = {\"locator\":\"xpath=//*[contains(@id,'%s')]\",\"desc\":\"type of travel domestic, international and LTC\"}
+main.radio.trip.type = {\"locator\":\"xpath=//*[contains(@value,'%s')]\",\"desc\":\"Trip type\"}
+main.input.origin = {\"locator\":\"xpath=//*[contains(@name,'origin')]\",\"desc\":\"input for origin point\"}
+main.input.destination = {\"locator\":\"xpath=//*[contains(@name,'destination')]\",\"desc\":\"input for destination point\"}
+main.input.departure = {\"locator\":\"xpath=//*[contains(@name,'departDate')]/following-sibling::img\",\"desc\":\"departure date\"}
+main.input.return = {\"locator\":\"xpath=//*[contains(@name,'returnDate')]/following-sibling::img\",\"desc\":\"return date\"}
+main.select.adults.no = {\"locator\":\"[\\\"xpath=//*[contains(@name,'noOfAdult')]\\\",\\\"xpath=//*[contains(@name,'noOfAdultsInt')]\\\"]\",\"desc\":\"drop down for no of adults\"}
+main.select.children.no = {\"locator\":\"xpath=//*[contains(@name,'noOfChild')]\",\"desc\":\"drop down for no of children\"}
+main.select.infants.no = {\"locator\":\"xpath=//*[contains(@name,'noOfInfant')]\",\"desc\":\"drop down for no of infants\"}
+main.select.class.type = {\"locator\":\"xpath=//*[contains(@name,'classType')]\",\"desc\":\"drop down for class type\"}
+main.select.airline.preference = {\"locator\":\"xpath=//*[contains(@name,'airlinePreference')]\",\"desc\":\"drop down for airline preferences\"}
+main.btn.submit = {\"locator\":\"xpath=//*[contains(@class,'srchbtn')]\",\"desc\":\"button for submit\"}
+main.date.picker.comp = {\"locator\":\"css=#ui-datepicker-div\",\"desc\":\"Date component\"}
+main.date.picker.comp.first = {\"locator\":\"xpath=//*[@class='ui-datepicker-group ui-datepicker-group-first']\",\"desc\":\"Month component first\"}
+main.date.picker.comp.last = {\"locator\":\"xpath=//*[@class='ui-datepicker-group ui-datepicker-group-last']\",\"desc\":\"Month component last\"}
+main.date.picker.btn.prev = {\"locator\":\"xpath=//*[@title='Prev']\",\"desc\":\"button for previous\"}
+main.date.picker.btn.next = {\"locator\":\"xpath=//*[@title='Next']\",\"desc\":\"button for next\"}
+main.date.picker.lbl.month = {\"locator\":\"css=.ui-datepicker-month\",\"desc\":\"month label\"}
+main.date.picker.lbl.year = {\"locator\":\"css=.ui-datepicker-year\",\"desc\":\"year label\"}
+main.date.picker.date.disable = {\"locator\":\"xpath=//td[contains(@class,'ui-datepicker-unselectable ui-state-disabled')]\",\"desc\":\"disabled date\"}
+main.date.picker.lbl.date = {\"locator\":\"css=.ui-state-default\",\"desc\":\"date label\"}
+main.radio.trip.type.inter = {\"locator\":\"xpath=//*[contains(@id,'showinterntl')]//*[contains(@value,'%s')]\"}
+main.input.origin.inter = {\"locator\":\"xpath=//*[@name='originInt']\"}
+main.input.destination.inter = {\"locator\":\"xpath=//*[@name='destinationInt']\"}
+main.input.departure.inter = {\"locator\":\"xpath=//*[@name='departDateInt']/following-sibling::img\"}
+main.input.return.inter = {\"locator\":\"xpath=//*[@name='returnDateInt']/following-sibling::img\"}
+main.select.adults.no.inter = {\"locator\":\"xpath=//*[contains(@name,'noOfAdultsInt')]\"}
+main.select.children.no.inter = {\"locator\":\"xpath=//*[contains(@name,'noOfChildrenInt')]\"}
+main.select.infants.no.inter = {\"locator\":\"xpath=//*[contains(@name,'noOfInfantsInt')]\"}
+main.select.class.type.inter = {\"locator\":\"xpath=//*[@class='headpassger']//*[contains(@name,'classTypeInt')]\"}
+main.select.airline.preference.inter = {\"locator\":\"xpath=//*[contains(@id,'showinterntl')]//*[contains(@class,'srchbtn')]\"}
+main.btn.submit.inter = {\"locator\":\"xpath=//*[contains(@name,'submitValInt')]/following-sibling::*[contains(@class,'srchbtn')]\"}
+main.lbl.loading.search.results = {\"locator\":\"css=.greybold strong\"}
+main.lbl.search.details = {\"locator\":\"css=#frmDtDetail1\"}

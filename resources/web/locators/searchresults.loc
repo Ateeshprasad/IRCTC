@@ -1,0 +1,22 @@
+searchresults.search.info = {\"locator\":\"css=resultheader>fromtoinfo\"}
+searchresults.rt.cmp.travel.details = {\"locator\":\"css=.flighttimg\",\"desc\":\"Passenger deatils and timings\"}
+searchresults.rt.lbl.passgr.origin.details = {\"locator\":\"xpath=//b\",\"desc\":\"passenger origin place details\"}
+searchresults.rt.lbl.departure.time.details = {\"locator\":\"css=#frdFlight\",\"desc\":\"departure date and time\"}
+searchresults.rt.lbl.passgr.return.details = {\"locator\":\"xpath=//strong[2]\",\"desc\":\"passenger return details\"}
+searchresults.rt.lbl.return.time.details = {\"locator\":\"css=#rtnFlight\",\"desc\":\"return date and time\"}
+searchresults.rt.cmp.booking.details = {\"locator\":\"css=#bgprice\",\"desc\":\"booking details component\"}
+searchresults.rt.lst.total.price = {\"locator\":\"css=.rupee_bg\",\"desc\":\"list for total price\"}
+searchresults.rt.lbl.up.price = {\"locator\":\"css=.onward_icon +.white_box .flightinfo b\",\"desc\":\"flight amount for up\"}
+searchresults.rt.lbl.up.flight.info = {\"locator\":\"css=.onward_icon +.white_box .flightinfo\",\"desc\":\"start point flight info time and date\"}
+searchresults.rt.lbl.up.flightno = {\"locator\":\"css=.onward_icon +.white_box .flightno\",\"desc\":\"start point flight number\"}
+searchresults.rt.lbl.down.flightno = {\"locator\":\"css=.return_icon +.white_box .flightno\",\"desc\":\"return flight number\"}
+searchresults.rt.lbl.down.flight.info = {\"locator\":\"css=.return_icon +.white_box .flightinfo\",\"desc\":\"return flight info time and date\"}
+searchresults.rt.lbl.down.price = {\"locator\":\"css=.return_icon +.white_box .flightinfo b\",\"desc\":\"flight amount for down\"}
+searchresults.rt.btn.book = {\"locator\":\"css=[alt='Book Now']\",\"desc\":\"button for book\"}
+searchresults.rt.comp.flights = {\"locator\":\"css=[id*='RoundResult']\",\"desc\":\"available flight details\"}
+searchresults.rt.comp.startTrip = {\"locator\":\"css=#forwardRoundResult\",\"desc\":\"forward flights info\"}
+searchresults.rt.comp.returnTrip = {\"locator\":\"css=#returnRoundResult\",\"desc\":\"return flights info\"}
+searchresults.rt.sub.comp.flights = {\"locator\":\"[\\\"css=.leftflightinfo\\\",\\\"css=.rightflightinfo\\\"]\",\"desc\":\"flights comp\"}
+searchresults.rt.lbl.flightno = {\"locator\":\"css=.flightno\",\"desc\":\"flight no\"}
+searchresults.rt.lbl.journey.time = {\"locator\":\"css=.lastflightcont\",\"desc\":\"journey time\"}
+searchresults.rt.lbl.journeyFare = {\"locator\":\"css=.onewayprice\",\"desc\":\"flight charge\"}
